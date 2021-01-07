@@ -38,9 +38,9 @@
 - Doing Farming 🌱
 
 <div align="center" >
-    <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/val.gif">
-  <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/messi.gif">
-    <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/fifa.gif">
+    <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/val.gif">
+  <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/messi.gif">
+    <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/fifa.gif">
   </div>
 
 # <div align="center" >Ping Me📱 </div>
