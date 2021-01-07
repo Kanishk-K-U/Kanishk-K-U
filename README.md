@@ -30,6 +30,19 @@
 - ⏳ Pastime: I do love to play football and FPS games :)
 
 
+# <div align="center" > Pastime🤖</div>
+
+- Playing Games 🎮
+- Playing and Watching Football ️⚽️
+- Videography & Editing 🖥
+- Doing Farming 🌱
+
+<div align="center" >
+    <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/val.gif">
+  <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/messi.gif">
+    <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/fifa.gif">
+  </div>
+
 # <div align="center" >Ping Me📱 </div>
 <p>
   <br />
@@ -40,18 +53,4 @@
 <p>
   <br />
   </p>
-
-# <div align="center" > Pastime🤖</div>
-
-- Playing Games 🎮
-- Playing and Watching Football ️⚽️
-- Videography & Editing 🖥
-- Doing Farming 🌱
-
-<div align="center" >
-  <img width="300" height="300" src="https://tenor.com/view/messi-leo-leonel-messi-soccer-gif-10922949">
-  <img width="300" height="300" src="https://tenor.com/view/jojo-jotaro-darby-play-valorant-gif-17386898">
-  </div>
-
-
   
