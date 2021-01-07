@@ -2,6 +2,7 @@
   
 <p >
   <img align="left" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
+  <img align="left" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/apple.gif">
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
