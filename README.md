@@ -1,4 +1,4 @@
-# <div align="center" ><>Hello World! It's Kanishk<img width="90" height="40" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/tenor.gif"> </div>
+# <div align="center" ><img width="90" height="40" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/tenor.gif">Hello World! It's Kanishk
   
 <p >
   <img align="left" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
