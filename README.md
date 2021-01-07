@@ -31,7 +31,7 @@
 
 
 <div>
-  <p><img align="left" width="400" height="500" src="https://github-readme-stats.vercel.app/api?username=kanishk-k-u&show_icons=true&theme=tokyonight"></p>
+  <p><img align="centre" width="400" height="500" src="https://github-readme-stats.vercel.app/api?username=kanishk-k-u&show_icons=true&theme=tokyonight"></p>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
 <p>
