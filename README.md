@@ -34,16 +34,12 @@
 <p>
   <br />
   </p>
-<div align="center" >
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kanishk-K-U)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kanishk-k-u/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kanimage_factory/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/kukanishk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/kanishk-k-u) 
 </div>
 <p>
   <br />
   </p>
-
-<div align="center" >
-  <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/cnct.gif">
-</div>
 
 # <div align="center" > Pastime🤖</div>
 
