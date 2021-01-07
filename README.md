@@ -1,7 +1,7 @@
 # <div align="center" ><img width="90" height="40" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/tenor.gif">Hello World! It's Kanishk
   
 <p >
- <img align="left" width="300" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
+ <img align="left" width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
   <img align="left" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
   <img align="left" width="250" height="250" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
 </p>
