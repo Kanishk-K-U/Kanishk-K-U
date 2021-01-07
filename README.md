@@ -42,7 +42,7 @@
   </p>
 
 <div align="center" >
-  <img width="300" height="300" src="https://tenor.com/view/connectmore-listenwell-talkwthoutfear-offerpraise-questionit-gif-18954280">
+  <img width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/cnct.gif">
 </div>
 
 # <div align="center" > Pastime🤖</div>
