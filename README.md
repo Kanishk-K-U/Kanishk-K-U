@@ -30,23 +30,6 @@
 - ⏳ Pastime: I do love to play football and FPS games :)
 
 
-<div>
-  <p><img align="centre" width="400" height="500" src="https://github-readme-stats.vercel.app/api?username=kanishk-k-u&show_icons=true&theme=tokyonight"></p>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  </div>
-<p>
-  <br />
-  </p>
-  <p>
-  <br />
-  </p>
-  <p align="center">  
-  <a href="https://github.com/kanishk-k-u/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kanishk-k-u&color=red&style=flat-square&label=PROFILE+STALKERS+😂">
-  </a>
-  </p>
-<hr/>
-
 # <div align="center" >Lets Connect📱 </div>
 <p>
   <br />
