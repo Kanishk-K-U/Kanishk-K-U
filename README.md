@@ -15,9 +15,9 @@
   </p>
 <hr/>
 
-# <div align="center" >About ME👋 </div>
+# <div align="center" >About ME😁 </div>
 
-'m kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.  I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, ui, ux, and design in general.
+ I'm kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.  I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, ui, ux, and design in general.
 
 
 - 🔭 I’m currently working on Fire detector using PIC microcontroller.
@@ -31,7 +31,7 @@
 
 
 <div>
-  <p><img align="left" width="250" height="350" src="https://github-readme-stats.vercel.app/api?username=kanishk-k-u&show_icons=true&theme=tokyonight"></p>
+  <p><img align="left" width="400" height="500" src="https://github-readme-stats.vercel.app/api?username=kanishk-k-u&show_icons=true&theme=tokyonight"></p>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </div>
 <p>
