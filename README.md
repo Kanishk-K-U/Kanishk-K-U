@@ -1,9 +1,9 @@
 # <div align="center" ><img width="90" height="40" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/tenor.gif">Hello World! It's Kanishk
   
 <p >
- <img align="left" width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
-  <img align="left" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
-  <img align="left" width="200" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
+ <img align="centre" width="300" height="300" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
+  <img align="centre" width="250" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
+  <img align="centre" width="200" height="350" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -30,7 +30,7 @@
 - ⏳ Pastime: I do love to play football and FPS games :)
 
 
-# <div align="center" > Pastime🤖</div>
+# <div align="left" > Pastime🤖</div>
 
 - Playing Games 🎮
 - Playing and Watching Football ️⚽️
