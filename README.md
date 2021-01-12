@@ -1,9 +1,10 @@
 # <div align="center" ><img width="90" height="40" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/tenor.gif">Hello World! It's Kanishk
   
 <p >
- <img align="left" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
-  <img align="center" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
-  <img align="right" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
+  <div align="center" >
+ <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
+ <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
+  <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
