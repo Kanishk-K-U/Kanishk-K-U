@@ -5,6 +5,7 @@
  <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
  <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
   <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
+    </div>
 </p>
 
 
