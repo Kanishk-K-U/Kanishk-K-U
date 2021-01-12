@@ -7,13 +7,7 @@
   <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p>
-  <br />
-  </p>
-  <p>
-  <br />
-  </p>
+
 <hr/>
 
 # <div align="center" >About ME😁 </div>
