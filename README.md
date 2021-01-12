@@ -2,8 +2,8 @@
   
 <p >
  <img align="left" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/hello.gif">
-  <img align="left" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
-  <img align="left" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
+  <img align="center" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/giphy%20(1).gif">
+  <img align="right" width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/world.gif">
 </p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
