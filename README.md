@@ -39,7 +39,7 @@
     <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/fifa.gif">
   </div>
 
-# <div align="left" >Social📱 </div>
+# <div align="left" >Connect📱 </div>
 <p>
   <br />
   </p>
