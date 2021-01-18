@@ -13,7 +13,7 @@
 
 # <div align="center" >About ME😁 </div>
 
- I'm kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.  I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, ui, ux, and design in general.
+ I'm Kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering from SRM University.  I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, ui, ux, and design in general.
 
 
 - 🔭 I’m currently working on Fire detector using PIC microcontroller.
