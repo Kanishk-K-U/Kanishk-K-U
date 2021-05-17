@@ -15,8 +15,8 @@
 
  I'm Kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering  from SRM University.I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, UI, UX, and design in general.
 
-- 🔭 I’m currently working on Fire detector using PIC microcontroller.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Home Automation.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on Valorant!!!
 - 💬 Ask me about UI/UX Designing and Any Technology related stuff.
 - 📫 How to reach me: Drop mail kanishkkanagaraj.u@gmail.com.
@@ -30,7 +30,7 @@
 - Playing Games 🎮
 - Playing and Watching Football ️⚽️
 - Videography & Editing 🖥
-- Doing Farming 🌱
+- Bingeing Animes 💮
 
 <div align="center" >
     <img width="200" height="200" src="https://github.com/kanishk-k-u/kanishk-k-u/blob/master/val.gif">
