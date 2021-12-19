@@ -15,7 +15,7 @@
 
  I'm Kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering  from SRM University.I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, UI, UX, and design in general.
 
-- 🔭 I’m currently working on AR.
+- 🔭 I’m currently working on Adaptive cruise controlled Car.
 - 🌱 I’m currently learning MicroPython.
 - 👯 I’m looking to collaborate on Valorant!!!
 - 💬 Ask me about UI/UX Designing and Any Technology related stuff.
