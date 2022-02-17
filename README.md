@@ -12,8 +12,11 @@
 <hr/>
 
 # <div align="center" >About ME😁 </div>
+Hello👋, Kanishk here, A sophomore pursuing electronics and communication as a major. I'm an 18y/o UI Designer, IoT enthusiast, extremely passionate about the world of Design, DIY, Tech & Gadgets.
 
- I'm Kanishk from Chennai-India, and I do shots on adobe creatives and Development.Strong professional with a Bachelor's degree focused in Electronics and Communications Engineering  from SRM University.I really enjoy learning languages and IOT like Swift and Arduino, as well as work in HTML. I also enjoy wireframing, UI, UX, and design in general.
+I have experience working with Adobe creatives. My interest areas also include IoT and CAD Designs. Currently learning a lot about Python, UX & VLSI. I am also open to research opportunities in fields that excite me.
+
+I am an active photographer in my free time, and an FPV Pilot as well. I also enjoy football⚽️, anime🍥, and nature🌱
 
 - 🔭 I’m currently working on Adaptive cruise controlled Car.
 - 🌱 I’m currently learning MicroPython.
