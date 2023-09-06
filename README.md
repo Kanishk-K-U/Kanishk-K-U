@@ -12,16 +12,16 @@
 <hr/>
 
 # <div align="center" >About ME😁 </div>
-Hello👋, Kanishk here, A pre-final student pursuing electronics and communication as a major. I have experience working with Electronics and embedded systems. My interest areas also include FPGA and VLSI Design. Currently learning a lot about Python & VLSI. I am also open to research opportunities in fields that excite me.
+Hello👋, Kanishk here, I'm an engineer who loves design🖍️, electronics💡, sky✈️. Currently, I'm helping to build an autonomous underwater vehicle. I have experience working with Electronics and digital embedded systems. My interests also include FPGA and VLSI Design. I am currently learning a lot about verilog & RTL Design. I am also open to research opportunities in fields that excite me.
 
-I am an active photographer in my free time. I enjoy football⚽️ and nature🌱
+I am an active photographer in my free time. I enjoy football⚽️ and travel🌱
 
-- 🔭 I’m currently working on Robotic Arm using Inverse Kinematics.
+- 🔭 I’m currently working on IoT enabled Automotive Onboard Telemetry Recorder.
 - 🌱 I’m currently learning Verilog.
 - 👯 I’m looking to collaborate on research works!!!
-- 💬 Ask me about UI/UX Designing and Any Electronics & Technology related stuff.
+- 💬 Ask me about any Electronics & Technology related stuff.
 - 📫 How to reach me: Drop mail kanishkkanagaraj.u@gmail.com.
-- ⚡  Passionate: Photography, Aviation & Editing.
+- ⚡  Passionate: Photography, Aviation & Designing.
 - ⏳ Pastime: I do love to play football and FPS games :)
 
 <div align="center" >
